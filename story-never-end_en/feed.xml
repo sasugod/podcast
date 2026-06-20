@@ -13,37 +13,17 @@
 <image><url>https://podcast.sasugod.com/story-never-end_en/cover.jpg</url><title>Story Never End — Classic Literature</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Arts"/>
 <itunes:owner><itunes:name>Story Never End</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Sat, 20 Jun 2026 00:04:18 +0000</lastBuildDate>
+<lastBuildDate>Sat, 20 Jun 2026 01:31:33 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_en/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
-<title>The Picture of Dorian Gray</title>
-<guid isPermaLink="false">classic-en-dorian_gray</guid>
-<pubDate>Wed, 17 Jun 2026 08:22:27 +0800</pubDate>
-<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/dorian_gray.mp3" length="15932304" type="audio/mpeg"/>
-<itunes:duration>16:35</itunes:duration>
+<title>The Time Machine</title>
+<guid isPermaLink="false">classic-en-time_machine</guid>
+<pubDate>Fri, 19 Jun 2026 16:42:25 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/time_machine.mp3" length="25036944" type="audio/mpeg"/>
+<itunes:duration>26:04</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
-<description>The Picture of Dorian Gray — An audio-theatre retelling of «The Picture of Dorian Gray».</description>
-<itunes:summary>The Picture of Dorian Gray — An audio-theatre retelling of «The Picture of Dorian Gray».</itunes:summary>
-</item>
-<item>
-<title>MOBY-DICK or THE WHALE</title>
-<guid isPermaLink="false">classic-en-MOBY_DICK_or_THE_WHALE</guid>
-<pubDate>Mon, 15 Jun 2026 20:06:17 +0800</pubDate>
-<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/MOBY_DICK_or_THE_WHALE.mp3" length="20628512" type="audio/mpeg"/>
-<itunes:duration>21:29</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<description>MOBY-DICK or THE WHALE — An audio-theatre retelling of «MOBY-DICK or THE WHALE».</description>
-<itunes:summary>MOBY-DICK or THE WHALE — An audio-theatre retelling of «MOBY-DICK or THE WHALE».</itunes:summary>
-</item>
-<item>
-<title>Frankenstein</title>
-<guid isPermaLink="false">classic-en-Frankenstein</guid>
-<pubDate>Mon, 15 Jun 2026 10:14:04 +0800</pubDate>
-<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-en/Frankenstein.mp3" length="21625763" type="audio/mpeg"/>
-<itunes:duration>22:31</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<description>Frankenstein — An audio-theatre retelling of «Frankenstein».</description>
-<itunes:summary>Frankenstein — An audio-theatre retelling of «Frankenstein».</itunes:summary>
+<description>The Time Machine — An audio-theatre retelling of «The Time Machine».</description>
+<itunes:summary>The Time Machine — An audio-theatre retelling of «The Time Machine».</itunes:summary>
 </item>
 </channel>
 </rss>
