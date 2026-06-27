@@ -13,7 +13,7 @@
 <image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的眼光重看經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Fri, 26 Jun 2026 13:29:22 +0000</lastBuildDate>
+<lastBuildDate>Sat, 27 Jun 2026 13:28:46 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>《西遊記》第8集：如來明明可以直接送經書，為何偏要讓人歷盡九九八十一難？</title>
@@ -114,6 +114,16 @@
 <itunes:explicit>false</itunes:explicit>
 <description>《三國演義》第13集：反間計大崩潰——賽局理論拆穿豬隊友。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
 <itunes:summary>《三國演義》第13集：反間計大崩潰——賽局理論拆穿豬隊友。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
+<item>
+<title>變形記</title>
+<guid isPermaLink="false">classic-zh-metamorphosis</guid>
+<pubDate>Sat, 27 Jun 2026 14:47:36 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-zh/metamorphosis.mp3" length="42665232" type="audio/mpeg"/>
+<itunes:duration>44:26</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>變形記。變形記——異化、零工經濟與工具人。世界經典的中文有聲劇場。</description>
+<itunes:summary>變形記。變形記——異化、零工經濟與工具人。世界經典的中文有聲劇場。</itunes:summary>
 </item>
 <item>
 <title>《三國演義》第十二集：火燒濮陽坑擒許褚，自由落體算破陷阱術</title>
