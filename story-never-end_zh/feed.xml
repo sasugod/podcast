@@ -13,8 +13,28 @@
 <image><url>https://podcast.sasugod.com/story-never-end_zh/cover.jpg</url><title>槓古說不盡｜用現代人的眼光重看經典</title><link>https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</link></image>
 <itunes:category text="Society &amp; Culture"/>
 <itunes:owner><itunes:name>槓古說不盡</itunes:name><itunes:email>i@scottding.com</itunes:email></itunes:owner>
-<lastBuildDate>Sun, 28 Jun 2026 01:31:51 +0000</lastBuildDate>
+<lastBuildDate>Mon, 29 Jun 2026 13:18:05 +0000</lastBuildDate>
 <atom:link href="https://podcast.sasugod.com/story-never-end_zh/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>《西遊記》第12集：菩薩當場打臉皇帝欽點的高僧——觀音為什麼偏偏選上玄奘？</title>
+<guid isPermaLink="false">xiyou-Ep012</guid>
+<pubDate>Wed, 29 Jul 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/xiyou/Ep012.mp3" length="3735504" type="audio/mpeg"/>
+<itunes:duration>10:22</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《西遊記》第12集：菩薩當場打臉皇帝欽點的高僧——觀音為什麼偏偏選上玄奘？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《西遊記》第12集：菩薩當場打臉皇帝欽點的高僧——觀音為什麼偏偏選上玄奘？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
+<item>
+<title>《西遊記》第11集：皇帝死過一次才懂慈悲——唐太宗地府還魂，生死帳單算清了嗎？</title>
+<guid isPermaLink="false">xiyou-Ep011</guid>
+<pubDate>Tue, 28 Jul 2026 08:00:00 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/xiyou/Ep011.mp3" length="4049424" type="audio/mpeg"/>
+<itunes:duration>11:14</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>《西遊記》第11集：皇帝死過一次才懂慈悲——唐太宗地府還魂，生死帳單算清了嗎？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
+<itunes:summary>《西遊記》第11集：皇帝死過一次才懂慈悲——唐太宗地府還魂，生死帳單算清了嗎？。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
+</item>
 <item>
 <title>《西遊記》第10集：唐太宗死過一次又活回來——他在地府看見的，究竟是神話還是大腦的求救訊號？</title>
 <guid isPermaLink="false">xiyou-Ep010</guid>
@@ -136,11 +156,21 @@
 <itunes:summary>《三國演義》第14集：張飛醉了，徐州沒了——奇襲速度的致命算術。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
 </item>
 <item>
+<title>化身博士</title>
+<guid isPermaLink="false">classic-zh-jekyll_hyde</guid>
+<pubDate>Sun, 28 Jun 2026 18:43:48 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-zh/jekyll_hyde.mp3" length="30488592" type="audio/mpeg"/>
+<itunes:duration>31:45</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<description>化身博士。化身博士——雙重身分、網路分身與匿名人格。世界經典的中文有聲劇場。</description>
+<itunes:summary>化身博士。化身博士——雙重身分、網路分身與匿名人格。世界經典的中文有聲劇場。</itunes:summary>
+</item>
+<item>
 <title>傲慢與偏見</title>
 <guid isPermaLink="false">classic-zh-pride_prejudice</guid>
-<pubDate>Sun, 28 Jun 2026 09:11:56 +0800</pubDate>
-<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-zh/pride_prejudice.mp3" length="24742032" type="audio/mpeg"/>
-<itunes:duration>25:46</itunes:duration>
+<pubDate>Sun, 28 Jun 2026 14:30:34 +0800</pubDate>
+<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-zh/pride_prejudice.mp3" length="23825040" type="audio/mpeg"/>
+<itunes:duration>24:48</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <description>傲慢與偏見。傲慢與偏見——婚配市場、交友軟體與階級。世界經典的中文有聲劇場。</description>
 <itunes:summary>傲慢與偏見。傲慢與偏見——婚配市場、交友軟體與階級。世界經典的中文有聲劇場。</itunes:summary>
@@ -194,16 +224,6 @@
 <itunes:explicit>false</itunes:explicit>
 <description>《三國演義》第10集：馬超十七歲一槍定乾坤、典韋一手擎旗不動如山——力矩平衡的奧秘！。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</description>
 <itunes:summary>《三國演義》第10集：馬超十七歲一槍定乾坤、典韋一手擎旗不動如山——力矩平衡的奧秘！。用一條公式拆解這段名著情節。🎬 影片版：https://www.youtube.com/channel/UCgULoqcMmHbrxHKm8S_y88Q</itunes:summary>
-</item>
-<item>
-<title>化身博士</title>
-<guid isPermaLink="false">classic-zh-jekyll_hyde</guid>
-<pubDate>Wed, 24 Jun 2026 10:43:58 +0800</pubDate>
-<enclosure url="https://github.com/sasugod/podcast/releases/download/classic-zh/jekyll_hyde.mp3" length="34017552" type="audio/mpeg"/>
-<itunes:duration>35:25</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<description>化身博士。化身博士——雙重身分、網路分身與匿名人格。世界經典的中文有聲劇場。</description>
-<itunes:summary>化身博士。化身博士——雙重身分、網路分身與匿名人格。世界經典的中文有聲劇場。</itunes:summary>
 </item>
 <item>
 <title>《三國演義》第9集：呂布刺喉董卓死、李傕車輪戰耗盡英雄——周期騷擾的共振破壞！</title>
